@@ -1,8 +1,9 @@
 # Building Agents
-* Building effective agents, by Anthropic [Dec 19, 2024] - [blog post](https://www.anthropic.com/research/building-effective-agents)
-    - Building Effective Agents Cookbook, by Anthropic (Erik Schluntz and Barry Zhang) - [github](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
 
-* AI Agents in LangGraph, by Langchain, Tavily, DeepLearningAI - [short course](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/1/introduction)
+* Building effective agents, by Anthropic [Dec 19, 2024] - [[blog post](https://www.anthropic.com/research/building-effective-agents)]
+    - Building Effective Agents Cookbook, by Anthropic (Erik Schluntz and Barry Zhang) - [[github](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)]
+
+* AI Agents in LangGraph, by Langchain, Tavily, DeepLearning.AI - [[short course](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/1/introduction)]
     - [Build an Agent from scrach](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/2/build-an-agent-from-scratch)
         * Based on: A simple Python implementation of the ReAct pattern for LLMs, by Simon Willison - [blog post](https://til.simonwillison.net/llms/python-react-pattern)
         * ReAct Pattern: Stands for "reasoning plus acting."
@@ -32,7 +33,6 @@
     - [Persistance and streaming](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/5/persistence-and-streaming)
     - [Human in the loop](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/6/human-in-the-loop)
 
+* AI Agentic Design Patterns with AutoGen by Microsoft, PennSate, Deepleaning.AI - [shourt course](https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen)
 
-
-# Projects
-* SWE-agent by 
+* What's next for AI agentic workflows ft. Andrew Ng of AI Fund [March 2024] - [youtube](https://www.youtube.com/watch?v=sal78ACtGTc&t=4s&ab_channel=SequoiaCapital)
