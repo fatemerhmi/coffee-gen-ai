@@ -35,4 +35,4 @@
 
 * AI Agentic Design Patterns with AutoGen by Microsoft, PennSate, Deepleaning.AI - [shourt course](https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen)
 
-* What's next for AI agentic workflows ft. Andrew Ng of AI Fund [March 2024] - [youtube](https://www.youtube.com/watch?v=sal78ACtGTc&t=4s&ab_channel=SequoiaCapital)
+* What's next for AI agentic workflows ft. [Andrew Ng](https://www.linkedin.com/in/andrewyng/) of AI Fund [March 2024] - [[youtube](https://www.youtube.com/watch?v=sal78ACtGTc&t=4s&ab_channel=SequoiaCapital)] / [[My notes](notes/What-s-next-for-AI-agentic-workflows-Andrew-Ng.md)]

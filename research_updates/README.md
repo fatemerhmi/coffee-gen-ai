@@ -2,6 +2,19 @@
 
 * Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, by Anthropic [Apr 2022] - [source](https://arxiv.org/pdf/2204.05862)
 
+## Multi-Agent
+
+* ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024] - [paper](https://arxiv.org/pdf/2307.07924)/[github](https://github.com/OpenBMB/ChatDev)
+    - Company Overview: ChatDev is a virtual software company powered by intelligent agents.
+    - Agents take on roles such as CEO, CTO, programmer, tester, reviewer, and designer.
+    - Organizational Structure: Operates as a multi-agent system collaborating through specialized seminars.
+    - Collaboration Tasks: Agents handle designing, coding, testing, and documenting software.
+    - Mission: "Revolutionize the digital world through programming."
+    - Framework Focus: Offers a user-friendly, customizable, and extendable framework.
+    - Technology Basis: Built on large language models (LLMs).
+    - Research Purpose: Serves as a platform to study and understand collective intelligence.
+
+
 ## Evaluation
 * Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena by Zheng et al [Dec 2023] - [paper](https://arxiv.org/pdf/2306.05685)
     - Motivation / contribution:
@@ -14,4 +27,5 @@
         * **Mitigating Biases in LLM Judgments**: The research identifies potential biases in LLM judgments, such as position, verbosity, and self-enhancement biases, and proposes solutions to mitigate them.
 
         * **Development of New Benchmarks**: The introduction of [MT-Bench](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) and [Chatbot Arena](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations) aims to provide platforms for evaluating the alignment between LLM judgments and human preferences.
+        
 * A Survey on Evaluation of Large Language Models - by YUPENG CHANG et al [Dec 2023] - [paper](https://arxiv.org/pdf/2307.03109)

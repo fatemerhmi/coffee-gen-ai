@@ -6,7 +6,6 @@ Here I keep track of latest models.
 Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI chatbots - [huggingface](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard)
 
 ## compare
-
 | Model Name        | Company      | Release Date | Open Source | Parameters       | Model Repository | Technical Report/Paper | Website |
 |-------------------|--------------|--------------|-------------|------------------|------------------|------------------------|---------|
 | o3                | OpenAI       | December 2024| No          | -                | -                | -                      | -       |
@@ -25,6 +24,7 @@ Chatbot Arena LLM Leaderboard: Community-driven Evaluation for Best LLM and AI c
 | ChatGPT (GPT-4o)  | OpenAI       | May 2024     | No          | 1.76T (rumored)  | -                | -                      | [ChatGPT](https://chat.openai.com/) |
 | Qwen 1.5          | Alibaba      | March 2024   | Yes         | 0.5B to 72B      | [GitHub](https://github.com/alibaba/qwen) | [Paper](https://arxiv.org/abs/2403.12345) | -       |
 | Aya 101           | Cohere       | February 2024| Yes         | 13B              | [GitHub](https://github.com/cohere-ai/aya101) | [Paper](https://arxiv.org/abs/2402.12345) | -       |
+| Moondream         | Vikhyat      | January 2024 | Yes         | 2B, 0.5B         | [GitHub](https://github.com/vikhyat/moondream) | -                      | [Moondream](https://moondream.ai/) |
 | Llama 2           | Meta         | July 2023    | Yes         | 7B, 13B, 70B     | [GitHub](https://github.com/facebookresearch/llama) | [Model Card](https://github.com/Meta-Llama/llama/blob/main/MODEL_CARD.md) | -       |
 | Mistral 7B        | Mistral AI   | September 2023| Yes        | 7.3B             | [GitHub](https://github.com/mistralai/Mistral) | [Paper](https://arxiv.org/abs/2309.12345) | -       |
 | Llama 1           | Meta         | February 2023| Yes         | 7B, 13B, 33B, 65B| [GitHub](https://github.com/facebookresearch/llama) | [Model Card](https://github.com/Meta-Llama/llama/blob/main/MODEL_CARD.md) | -       |
