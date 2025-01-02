@@ -14,6 +14,12 @@
     - Technology Basis: Built on large language models (LLMs).
     - Research Purpose: Serves as a platform to study and understand collective intelligence.
 
+## Agent Frameworks:
+- Code Generation with AlphaCodium: From Prompt Engineering to Flow
+Engineering, Ridnik et al. (Jan 2024)[[paper](https://arxiv.org/pdf/2401.08500)]
+- Reflexion: Language Agents with
+Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org/pdf/2303.11366)]
+- MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action, Yang et al. (March 2023) - [paper](https://arxiv.org/pdf/2303.11381)
 
 ## Evaluation
 * Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena by Zheng et al [Dec 2023] - [paper](https://arxiv.org/pdf/2306.05685)

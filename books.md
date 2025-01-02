@@ -3,7 +3,7 @@ The following list is the suggestion from [Lukas Tencer](https://www.linkedin.co
 
 Here's Lukas's top 5 reading list for anyone looking to truly grasp LLM fundamentals and implementation:
 
-1) "Hands-On Large Language Models" by Jay Alammar & Maarten Grootendorst - Excellent practical guide, Amazing Illustrations and code exmplaes
+1) "Hands-On Large Language Models" by Jay Alammar & Maarten Grootendorst - Excellent practical guide, Amazing Illustrations and code exmplaes [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
 
 2) "Build a Large Language Model (From Scratch)" by Sebastian Raschka, PhD - Perfect for understanding core architecture. Goes into details also about e.g. data preprocessing.
 
