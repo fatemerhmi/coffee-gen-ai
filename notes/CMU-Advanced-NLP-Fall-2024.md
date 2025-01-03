@@ -38,3 +38,35 @@
         - Perception: collect data from the env
         - Action: exert actions, change env state
         - Computation: general acts of computing
+    - Tool Use scenario: 
+        - Knowledge access:
+            * sql executor (query: str) -> answer: any
+            * search engine (query: str) -> document: str - i.e. running google or bing
+            * retriever (query: str) -> document: str 
+        - Computation Activities
+            * calculator (formula: str) -> value: int | float 
+            * python interpreter (program: str) -> result: any 
+            * worksheet. insert row(row: list, index: int) -> None
+        - Interation w/ the world
+            * get weather (city name: str) -> weather: str 
+            * get location(ip: str) -> location: str 
+            * calendar. fetch events(date: str) -> events: list 
+            * email verify(address: str) -> result: bool
+        - Non-textual modalities (Less important with VLMM)
+            * cat image.delete (image id: str) -> None 
+            * spotify play music (name: str) > None 
+            * visual ga(query: str, image: Image) -> answer: str
+        - Special-skilled LMs (Less important with the more powerful models these days)
+            * QA (question: str) → answer: str
+            * translation (text: str, language: str) →> text: str
+    - Tool Use paradigms
+        * Tool Use: switching between
+            - text-generation mode
+            - tool-execution mode
+        * How to induce tool use
+            - Inference-time prompting
+            - Training
+        * ![Tool use](../images/notes/CMU-Advanced-NLP-Fall-2024/session15-slide18.jpeg)
+    - Tool Execution:
+        * To have a special token created in order to call a tool
+        * requires training the model
