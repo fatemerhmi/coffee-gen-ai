@@ -4,31 +4,24 @@
 
 ## Multi-Agent
 <details>
-    <summary>
-    ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024]
-    </summary>
-        - [paper](https://arxiv.org/pdf/2307.07924) / [github](https://github.com/OpenBMB/ChatDev)
-        - Company Overview: ChatDev is a virtual software company powered by intelligent agents.
-        - Agents take on roles such as CEO, CTO, programmer, tester, reviewer, and designer.
-        - Organizational Structure: Operates as a multi-agent system collaborating through specialized seminars.
-        - Collaboration Tasks: Agents handle designing, coding, testing, and documenting software.
-        - Mission: "Revolutionize the digital world through programming."
-        - Framework Focus: Offers a user-friendly, customizable, and extendable framework.
-        - Technology Basis: Built on large language models (LLMs).
-        - Research Purpose: Serves as a platform to study and understand collective intelligence.
-</details>
+  <summary>ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024]</summary>
 
+- [paper](https://arxiv.org/pdf/2307.07924) / [github](https://github.com/OpenBMB/ChatDev)
+- Company Overview: ChatDev is a virtual software company powered by intelligent agents.
+- Agents take on roles such as CEO, CTO, programmer, tester, reviewer, and designer.
+- Organizational Structure: Operates as a multi-agent system collaborating through specialized seminars.
+- Collaboration Tasks: Agents handle designing, coding, testing, and documenting software.
+- Mission: "Revolutionize the digital world through programming."
+- Framework Focus: Offers a user-friendly, customizable, and extendable framework.
+- Technology Basis: Built on large language models (LLMs).
+- Research Purpose: Serves as a platform to study and understand collective intelligence.
 
+</details>    
 
-* ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024] - [paper](https://arxiv.org/pdf/2307.07924)/[github](https://github.com/OpenBMB/ChatDev)
-    - Company Overview: ChatDev is a virtual software company powered by intelligent agents.
-    - Agents take on roles such as CEO, CTO, programmer, tester, reviewer, and designer.
-    - Organizational Structure: Operates as a multi-agent system collaborating through specialized seminars.
-    - Collaboration Tasks: Agents handle designing, coding, testing, and documenting software.
-    - Mission: "Revolutionize the digital world through programming."
-    - Framework Focus: Offers a user-friendly, customizable, and extendable framework.
-    - Technology Basis: Built on large language models (LLMs).
-    - Research Purpose: Serves as a platform to study and understand collective intelligence.
+* Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows? [paper](https://arxiv.org/abs/2407.10956)
+
+* Chain of Agents: Large Language Models Collaborating on Long-Context Tasks [paper](https://arxiv.org/abs/2406.02818)
+
 
 ## Agent Frameworks:
 - Code Generation with AlphaCodium: From Prompt Engineering to Flow
