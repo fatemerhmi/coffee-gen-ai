@@ -1,13 +1,16 @@
 # coffee-gen-ai
 This repository is to help me gather my thoughts and keep learning and catching up on the fast-paced field of generative AI while drinking coffee!
 
-**Last update: Dec 31th, 2024**   
+**Last update: Jan 3rd, 2025**   
 My plan to update this repository frequently as notes for my learning and readings around gen-ai. Please suggest what I should read next in the issues. 
 
+Structure of this website:
+## Repository Structure
+
+- [agents](./agents/README.md)
+- [courses](./courses/README.md)
+- [research_updates/](./research_updates/README.md)
+- [books](./books.md)
 
 
-# other cool gen-ai resouces:
-* https://www.promptingguide.ai/
-* https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file
-* https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main
-* https://github.com/mahbuba01/generative-AI-guide
+
