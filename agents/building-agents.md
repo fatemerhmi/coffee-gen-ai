@@ -3,6 +3,8 @@
 * Building effective agents, by Anthropic [Dec 19, 2024] - [[blog post](https://www.anthropic.com/research/building-effective-agents)]
     - Building Effective Agents Cookbook, by Anthropic (Erik Schluntz and Barry Zhang) - [[github](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)]
 
+* Google's whitepaper on AI Agents [Sept 2024] - [[whitepaper](https://www.kaggle.com/whitepaper-agents)]
+
 * AI Agents in LangGraph, by Langchain, Tavily, DeepLearning.AI - [[short course](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/1/introduction)]
     - [Build an Agent from scrach](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/2/build-an-agent-from-scratch)
         * Based on: A simple Python implementation of the ReAct pattern for LLMs, by Simon Willison - [blog post](https://til.simonwillison.net/llms/python-react-pattern)
