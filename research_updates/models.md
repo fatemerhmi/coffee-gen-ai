@@ -1,8 +1,6 @@
 # Models
-Here I keep track of latest models.
 
-## compare
-
+The following table is a summary of the models I've been tracking. They are ordered by release date.
 <table>
   <thead>
     <tr>
