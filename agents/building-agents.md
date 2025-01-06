@@ -3,6 +3,8 @@
 * Building effective agents, by Anthropic [Dec 19, 2024] - [[blog post](https://www.anthropic.com/research/building-effective-agents)]
     - Building Effective Agents Cookbook, by Anthropic (Erik Schluntz and Barry Zhang) - [[github](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)]
 
+* Introducing smolagents, a simple library to build agents by HuggingFace [Dec 2024] - [[blog post](https://huggingface.co/blog/smolagents)]
+
 * Google's whitepaper on AI Agents [Sept 2024] - [[whitepaper](https://www.kaggle.com/whitepaper-agents)]
 
 * AI Agents in LangGraph, by Langchain, Tavily, DeepLearning.AI - [[short course](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/1/introduction)]

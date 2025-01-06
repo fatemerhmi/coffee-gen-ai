@@ -78,6 +78,7 @@ LLM-as-a-Judge weather as self-evaluator or evaluator of other LLM's generation,
 Here are some interesting papers on this topic:
 
 * A Survey on LLM-as-a-Judge, Gu et al. [Dec 2024] - [paper](https://arxiv.org/pdf/2411.15594)
+* LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Li et al. [Dec 2024] - [paper](https://arxiv.org/pdf/2412.05579)
 
 * LLM Evaluators Recognize and Favor Their Own Generations, Panickssery et al. [Apr 2024] - [paper](https://arxiv.org/pdf/2404.13076)
   - biases are introduced due to the same LLM acting as both the evaluator and the evaluatee

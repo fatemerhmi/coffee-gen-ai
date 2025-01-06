@@ -63,8 +63,8 @@ Here I keep track of latest models.
       <td>September 2024</td>
       <td>Yes</td>
       <td>0.5B to 72B</td>
-      <td><a href="https://github.com/alibaba/qwen">GitHub</a></td>
-      <td><a href="https://arxiv.org/abs/2409.12345">Paper</a></td>
+      <td><a href="https://github.com/QwenLM/Qwen2.5">GitHub</a></td>
+      <td><a href="https://arxiv.org/abs/2412.15115">Paper</a></td>
       <td>-</td>
     </tr>
     <tr>
@@ -103,8 +103,8 @@ Here I keep track of latest models.
       <td>April 2024</td>
       <td>Yes</td>
       <td>141B (39B active)</td>
-      <td><a href="https://github.com/mistralai/Mixtral">GitHub</a></td>
-      <td><a href="https://arxiv.org/abs/2404.12345">Paper</a></td>
+      <td><a href="https://huggingface.co/mistralai/Mixtral-8x22B-v0.1">Model Card</a></td>
+      <td><a href="https://mistral.ai/news/mixtral-8x22b/">blog post</a></td>
       <td>-</td>
     </tr>
     <tr>
@@ -143,9 +143,9 @@ Here I keep track of latest models.
       <td>May 2024</td>
       <td>Yes</td>
       <td>8B, 35B</td>
-      <td><a href="https://github.com/cohere-ai/aya23">GitHub</a></td>
-      <td><a href="https://arxiv.org/abs/2405.12345">Paper</a></td>
-      <td>-</td>
+      <td><a href="https://huggingface.co/CohereForAI/aya-23-8B">Aya-23-8B</a> <a href="https://huggingface.co/CohereForAI/Aya-23-35B">Aya-23-35B</a></td>
+      <td><a href="https://arxiv.org/abs/2405.15032">Paper</a></td>
+      <td><a href="https://cohere.com/research/papers/aya-command-23-8b-and-35b-technical-report-2024-05-23">Cohere</a></td>
     </tr>
     <tr>
       <td>ChatGPT (GPT-4o)</td>
@@ -173,8 +173,8 @@ Here I keep track of latest models.
       <td>February 2024</td>
       <td>Yes</td>
       <td>13B</td>
-      <td><a href="https://github.com/cohere-ai/aya101">GitHub</a></td>
-      <td><a href="https://arxiv.org/abs/2402.12345">Paper</a></td>
+      <td><a href="https://hf.co/CohereForAI/aya-101">Aya-101</a></td>
+      <td><a href="https://arxiv.org/pdf/2402.07827">Paper</a></td>
       <td>-</td>
     </tr>
     <tr>
