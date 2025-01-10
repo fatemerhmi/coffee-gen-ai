@@ -1,4 +1,0 @@
-# Projects
-
-
-* SWE-agent
