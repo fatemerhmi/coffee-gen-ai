@@ -1,7 +1,7 @@
 # Building Agents
 
 * Building effective agents, by Anthropic [Dec 19, 2024] - [[blog post](https://www.anthropic.com/research/building-effective-agents)]
-    - Building Effective Agents Cookbook, by Anthropic (Erik Schluntz and Barry Zhang) - [[github](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)]
+    - Building Effective Agents Cookbook, by Anthropic ([Erik Schluntz](https://www.linkedin.com/in/erik-schluntz-530a9053/) and [Barry Zhang](https://www.linkedin.com/in/barry-z/)) - [[github](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)]
 
 * Introducing smolagents, a simple library to build agents by HuggingFace [Dec 2024] - [[blog post](https://huggingface.co/blog/smolagents)]
 
