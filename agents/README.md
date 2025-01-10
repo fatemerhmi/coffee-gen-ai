@@ -6,7 +6,6 @@ The goal of this direcotry is to teach you about agents, what are the main frame
 
 
 - [agents/](./README.md)
-    - [building-agents.md](./building-agents.md)
-    - [llm-as-a-judge.md](./llm-as-a-judge.md)
-    - [projects.md](./projects.md)
-    - [README.md](./README.md)
+    - [Building Agents](./building-agents.md)
+    - [LLM-as-a-Judge](./llm-as-a-judge.md)
+    - [Projects](./projects.md)

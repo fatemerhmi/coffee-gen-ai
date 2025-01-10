@@ -10,6 +10,19 @@
 
 * Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, by Anthropic [Apr 2022] - [source](https://arxiv.org/pdf/2204.05862)
 
+## Agent Frameworks:
+- Code Generation with AlphaCodium: From Prompt Engineering to Flow
+Engineering, Ridnik et al. (Jan 2024)[[paper](https://arxiv.org/pdf/2401.08500)]
+- Reflexion: Language Agents with
+Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org/pdf/2303.11366)]
+- MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action, Yang et al. (March 2023) - [paper](https://arxiv.org/pdf/2303.11381)
+
+## Agent Computer Interfaces (ACI)
+
+- SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering by Yang et al. [Nov 2024] - [paper](https://arxiv.org/abs/2405.15793) [website](https://swe-agent.com/latest/) - [github](https://github.com/SWE-agent/SWE-agent)
+  * investigate how interface design affects the performance of language model agents.
+  * Inspired by human-computer interaction (HCI) studies on the efficacy of user interfaces for humans, we investigate whether LM agents could similarly benefit from better-designed interfaces for performing software engineering tasks.
+
 ## Multi-Agent
 
 - ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024] - [paper](https://arxiv.org/pdf/2307.07924) / [github](https://github.com/OpenBMB/ChatDev)
@@ -58,14 +71,6 @@ Interventions, Estornell et al. [Jul 2024] - [paper](https://openreview.net/pdf?
   - Apply interventions: at time t-1 modify reponses before they are used next round
 
 
-
-## Agent Frameworks:
-- Code Generation with AlphaCodium: From Prompt Engineering to Flow
-Engineering, Ridnik et al. (Jan 2024)[[paper](https://arxiv.org/pdf/2401.08500)]
-- Reflexion: Language Agents with
-Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org/pdf/2303.11366)]
-- MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action, Yang et al. (March 2023) - [paper](https://arxiv.org/pdf/2303.11381)
-
 ## Evaluation
 
 ### LLM evaluators (LLM-as-a-Judge)
@@ -78,7 +83,15 @@ LLM-as-a-Judge weather as self-evaluator or evaluator of other LLM's generation,
 Here are some interesting papers on this topic:
 
 * A Survey on LLM-as-a-Judge, Gu et al. [Dec 2024] - [paper](https://arxiv.org/pdf/2411.15594)
+
 * LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Li et al. [Dec 2024] - [paper](https://arxiv.org/pdf/2412.05579)
+
+* From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge, Li et al. [Jan 2025] - [paper](https://arxiv.org/pdf/2412.05579)
+  - "LLM-as-ajudge" paradigm, LLMs are leveraged to perform scoring, ranking, or selection across various tasks and applications
+  - explore LLM-as-a-judge from three dimensions: what to judge, how to judge and where to judge
+    - Attribute: What to judge? helpfulness, harmlessness, reliability, relevance, feasibility and overall quality
+    - Methodology: How to judge? prompting techniques for LLMas-a-judge systems, including manually-labeled data, synthetic feedback, supervised fine-tuning, preference learning, swapping operation, rule augmentation, multi-agent collaboration, demonstration, multi-turn interaction and comparison acceleration
+    - Application: Where to judge? applications in which LLM-as-a-judge has been employed, including evaluation, alignment, retrieval and reasoning
 
 * LLM Evaluators Recognize and Favor Their Own Generations, Panickssery et al. [Apr 2024] - [paper](https://arxiv.org/pdf/2404.13076)
   - biases are introduced due to the same LLM acting as both the evaluator and the evaluatee

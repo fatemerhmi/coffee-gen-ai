@@ -26,6 +26,16 @@ The following table is a summary of the models I've been tracking. They are orde
       <td>-</td>
     </tr>
     <tr>
+      <td>Moondream</td>
+      <td>Vikhyat</td>
+      <td>January 2025</td>
+      <td>Yes</td>
+      <td>2B, 0.5B</td>
+      <td><a href="https://github.com/vikhyat/moondream">GitHub</a></td>
+      <td><a href="https://moondream.ai/blog/introducing-a-new-moondream-1-9b-and-gpu-support">Blog post</a></td>
+      <td><a href="https://moondream.ai/">Moondream</a></td>
+    </tr>
+    <tr>
       <td>DeepSeek-V3</td>
       <td>DeepSeek AI</td>
       <td>December 2024</td>
@@ -174,16 +184,6 @@ The following table is a summary of the models I've been tracking. They are orde
       <td><a href="https://hf.co/CohereForAI/aya-101">Aya-101</a></td>
       <td><a href="https://arxiv.org/pdf/2402.07827">Paper</a></td>
       <td>-</td>
-    </tr>
-    <tr>
-      <td>Moondream</td>
-      <td>Vikhyat</td>
-      <td>January 2024</td>
-      <td>Yes</td>
-      <td>2B, 0.5B</td>
-      <td><a href="https://github.com/vikhyat/moondream">GitHub</a></td>
-      <td>-</td>
-      <td><a href="https://moondream.ai/">Moondream</a></td>
     </tr>
     <tr>
       <td>Llama 2</td>
