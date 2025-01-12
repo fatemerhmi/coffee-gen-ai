@@ -17,6 +17,15 @@ Engineering, Ridnik et al. (Jan 2024)[[paper](https://arxiv.org/pdf/2401.08500)]
 Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org/pdf/2303.11366)]
 - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action, Yang et al. (March 2023) - [paper](https://arxiv.org/pdf/2303.11381)
 
+## Human and Agent interaction
+- Agents Are Not Enough, Shah, et al. [Dec 2024] - [paper](https://arxiv.org/pdf/2412.05579)
+  * Gen AI alone is insufficient to make new generations of agents more successful.
+  * to have more effective and sustainable ecosystem needs to includes:
+    - **Agents:** Agents are narrow and purpose-driven modules that are trained to do a specific task. Each agent can be autonomous, but with an ability to interface with other agents.
+    - **Sims:** Sims are representations of a user. Each Sim is created using a combination of user profile, preferences, and behaviors, and captures an aspect of who the user is. Different Sims can have different privacy and personalization settings. (user persona)
+    - **Assistant:** An Assistant is a program that directly interacts with the user, has a deep understanding of that user, and has an ability to call Sims and Agents as needed to reactively or proactively accomplish tasks and sub-tasks for the user.
+    The Assistant, with its comprehensive understanding of the user, co-creates and manages Sims with the supervision of the user,
+
 ## Agent Computer Interfaces (ACI)
 
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering by Yang et al. [Nov 2024] - [paper](https://arxiv.org/abs/2405.15793) [website](https://swe-agent.com/latest/) - [github](https://github.com/SWE-agent/SWE-agent)
@@ -25,7 +34,7 @@ Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org
 
 ## Multi-Agent
 
-- ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024] - [paper](https://arxiv.org/pdf/2307.07924) / [github](https://github.com/OpenBMB/ChatDev)
+* ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024] - [paper](https://arxiv.org/pdf/2307.07924) / [github](https://github.com/OpenBMB/ChatDev)
   - Company Overview: ChatDev is a virtual software company powered by intelligent agents.
   - Agents take on roles such as CEO, CTO, programmer, tester, reviewer, and designer.
   - Organizational Structure: Operates as a multi-agent system collaborating through specialized seminars.
@@ -77,8 +86,8 @@ Interventions, Estornell et al. [Jul 2024] - [paper](https://openreview.net/pdf?
 LLM-as-a-Judge weather as self-evaluator or evaluator of other LLM's generation, it a topic that has been proven to be useful in following scenarios:
 - benchmarking LLM's performance
 - reward modeling
-- constitutional AI
-- self-refinemen
+- constitutional AI, [Bai et al](https://arxiv.org/abs/2212.08073)
+- self-refinement
 
 Here are some interesting papers on this topic:
 

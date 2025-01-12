@@ -6,6 +6,7 @@
 * [VectorShift](https://vectorshift.ai/)
     - The No-Code AI automations platform
     - An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
+    - Build a slack bot [Youtube](https://www.youtube.com/watch?v=XAiJR4G0yyc&ab_channel=VectorShift)
 
 # OCR related:
 * Llama OCR:
