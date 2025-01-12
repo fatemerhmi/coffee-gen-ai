@@ -34,6 +34,9 @@ Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org
 
 ## Multi-Agent
 
+* OPENHANDS: An Open Platform for AI Software Developers as Generalist Agents by wang et al. [Oct 2024] - [Github](https://github.com/All-Hands-AI/OpenHands) / [Paper](https://arxiv.org/pdf/2407.16741)
+  - a platform for the development of powerful and flexible AI agents that interact with the world in similar ways to those of a human developer: by writing code, interacting with a command line, and browsing the web
+
 * ChatDev: Communicative Agents for Software Development by Qian et al. [Jun 2024] - [paper](https://arxiv.org/pdf/2307.07924) / [github](https://github.com/OpenBMB/ChatDev)
   - Company Overview: ChatDev is a virtual software company powered by intelligent agents.
   - Agents take on roles such as CEO, CTO, programmer, tester, reviewer, and designer.
