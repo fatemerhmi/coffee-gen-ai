@@ -17,6 +17,14 @@ Engineering, Ridnik et al. (Jan 2024)[[paper](https://arxiv.org/pdf/2401.08500)]
 Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org/pdf/2303.11366)]
 - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action, Yang et al. (March 2023) - [paper](https://arxiv.org/pdf/2303.11381)
 
+## Chain of Thought
+* Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting, by Zhu et al. [Jan 2025] - [paper](https://arxiv.org/pdf/2501.04341v1)
+  - CoT can improve the performance of LLMs on reasoning tasks (often overlook the important step of extracting important information early in the reasoning process)
+  - they propose iterative summarization pre-prompting (ISP^2) to enhance CoT 
+    - refine LLM reasoning when key information is missing
+  - ISP^2 first extract entities and their descriptions to form potential key information pairs using a rating system. 
+  - can improve performance (compared to existing CoT methods) by 7.1%
+
 ## Human and Agent interaction
 - Agents Are Not Enough, Shah, et al. [Dec 2024] - [paper](https://arxiv.org/pdf/2412.05579)
   * Gen AI alone is insufficient to make new generations of agents more successful.
@@ -49,6 +57,14 @@ Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org
   
 * Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows? Cao et al. [Jul 2024] - [paper](https://arxiv.org/abs/2407.10956)
 
+* Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models, Le et al. [July 2024] [paper](https://arxiv.org/abs/2407.06089)
+  - LLMs show different strengths and weaknesses, leading to challenges in maximizing their overall efficiency and versatility
+  - collaborative strategies for LLMs:
+    - **Merge**: integrating the parameters of multiple LLMs into a single, unified model, requiring that the parameters are compatible within a linear space
+    - **Ensemble**: combines the outputs of various LLMs to generate coherent results
+    - **Cooperate**: leverages different LLMs to allow full play to their diverse capabilities for specific tasks.
+
+
 * Chain of Agents: Large Language Models Collaborating on Long-Context Tasks, Zhang et al. [Jun 2024] -  [paper](https://arxiv.org/abs/2406.02818)
   - previous work on long context:
     - input reduction: such as Truncation and RAG
@@ -56,8 +72,6 @@ Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org
   - this paper:
     - Stage 1: worker agent: segment comprehension and chain of communication
     - Stage 2: manager agent: information integration and response generation
-
-* Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models, Le et al. [July 2024] [paper](https://arxiv.org/abs/2407.06089)
 
 ### Debate
 
