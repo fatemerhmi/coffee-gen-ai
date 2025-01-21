@@ -3,8 +3,9 @@
 ## structure
 
 [Research Updates/](./README.md)
-- [models.md](./models.md)
-- [benchmarks.md](./benchmarks.md)
+- [Models](./models.md)
+- [Benchmarks](./benchmarks.md)
+- [Research Tools](./research_tools.md)
 
 ## Reinforcement Learning from Human Feedback
 
@@ -17,13 +18,16 @@ Engineering, Ridnik et al. (Jan 2024)[[paper](https://arxiv.org/pdf/2401.08500)]
 Verbal Reinforcement Learning, Shinn et al (Oct 2023) [[paper](https://arxiv.org/pdf/2303.11366)]
 - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action, Yang et al. (March 2023) - [paper](https://arxiv.org/pdf/2303.11381)
 
-## Chain of Thought
+## Chain of Thought / Thinking
 * Understanding Before Reasoning: Enhancing Chain-of-Thought with Iterative Summarization Pre-Prompting, by Zhu et al. [Jan 2025] - [paper](https://arxiv.org/pdf/2501.04341v1)
   - CoT can improve the performance of LLMs on reasoning tasks (often overlook the important step of extracting important information early in the reasoning process)
   - they propose iterative summarization pre-prompting (ISP^2) to enhance CoT 
     - refine LLM reasoning when key information is missing
   - ISP^2 first extract entities and their descriptions to form potential key information pairs using a rating system. 
   - can improve performance (compared to existing CoT methods) by 7.1%
+
+* Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought, Xiang et al. [Jan 2025] - [paper](https://arxiv.org/pdf/2501.04682)
+  - propose Meta Chain-of-Thought (Meta-CoT), which extends traditional Chain-of-Thought (CoT)
 
 ## Human and Agent interaction
 - Agents Are Not Enough, Shah, et al. [Dec 2024] - [paper](https://arxiv.org/pdf/2412.05579)
