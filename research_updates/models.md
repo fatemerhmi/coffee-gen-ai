@@ -215,4 +215,14 @@ The following table is a summary of the models I've been tracking. They are orde
       <td><a href="https://github.com/Meta-Llama/llama/blob/main/MODEL_CARD.md">Model Card</a></td>
       <td>-</td>
     </tr>
+    <tr>
+      <td>GPT-3</td>
+      <td>OpenAI</td>
+      <td>May 2020</td>
+      <td>No</td>
+      <td>175B</td>
+      <td><a href="https://github.com/openai/gpt-3">GitHub</a></td>
+      <td><a href="https://arxiv.org/abs/2005.14165">Paper</a></td>
+      <td>-</td>
+    </tr>
 </table>
