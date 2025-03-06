@@ -148,3 +148,6 @@ Here are some interesting papers on this topic:
 * A Survey on Evaluation of Large Language Models - by YUPENG CHANG et al [Dec 2023] - [paper](https://arxiv.org/pdf/2307.03109)
 
 
+## AI CUDA Engineer
+
+* The AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition [Feb, 2025] - [paper](https://pub.sakana.ai/static/paper.pdf)

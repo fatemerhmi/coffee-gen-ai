@@ -16,6 +16,12 @@ This directory is to store coding samples and projects as well as some libraries
     * A framework for building agents with LLMs
     * [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents#%F0%9F%A4%94-what-are-agents)
 
+- [dspy](https://github.com/stanfordnlp/dspy)
+    * DSPy stands for Declarative Self-improving Python
+    * The framework for programming—not prompting—language models
+    * iterate fast on building modular AI systems and offers algorithms for optimizing their prompts and weights, whether you're building simple classifiers, sophisticated RAG pipelines, or Agent loops
+    
+
 ## Model providers
 
 - [Together.ai](https://docs.together.ai/docs/introduction)

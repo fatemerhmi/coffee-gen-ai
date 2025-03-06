@@ -66,7 +66,7 @@
         * How to induce tool use
             - Inference-time prompting
             - Training
-        * ![Tool use](../images/notes/CMU-Advanced-NLP-Fall-2024/session15-slide18.jpeg)
+        * ![Tool use](../../images/notes/CMU-Advanced-NLP-Fall-2024/session15-slide18.jpeg)
     - Tool Execution:
         * To have a special token created in order to call a tool
         * requires training the model
