@@ -1,4 +1,11 @@
 # Books
+
+## Free books
+
+Foundations of Large Language Models by Tong Xiao and Jingbo Zhu [book](https://arxiv.org/pdf/2501.09223)
+
+## paid books
+
 The following list is the suggestion from [Lukas Tencer](https://www.linkedin.com/in/lukastencer/) - [link to blog post](https://www.linkedin.com/posts/lukastencer_ai-machinelearning-llm-activity-7275253370540498944-n60H?utm_source=share&utm_medium=member_desktop)
 
 Here's Lukas's top 5 reading list for anyone looking to truly grasp LLM fundamentals and implementation:

@@ -15,6 +15,16 @@ The following table is a summary of the models I've been tracking. They are orde
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td>DeepSeek-R1</td>
+      <td>DeepSeek AI</td>
+      <td>Jan 2025</td>
+      <td>Yes</td>
+      <td>671B</td>
+      <td><a href="https://github.com/deepseek-ai/DeepSeek-R1">GitHub</a></td>
+      <td><a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf">Paper</a></td>
+      <td><a href="https://www.deepseek.com/">DeepSeek</a></td>
+    </tr>
     <tr>
       <td>o3</td>
       <td>OpenAI</td>
@@ -23,7 +33,7 @@ The following table is a summary of the models I've been tracking. They are orde
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
+      <td><a href="https://chat.openai.com/">ChatGPT</a></td>
     </tr>
     <tr>
       <td>Moondream</td>
