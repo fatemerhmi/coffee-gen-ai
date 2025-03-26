@@ -1,7 +1,7 @@
 # coffee-gen-ai
 This repository is to help me gather my thoughts, keep learning, and catch up on the fast-paced field of generative AI while drinking coffee!
 
-**Last update: March 5th, 2025**   
+**Last update: March 25th, 2025**   
 
 My plan is to update this repository frequently with notes from my learning and readings on generative AI. Feel free to suggest what I should read next in the issues!
 

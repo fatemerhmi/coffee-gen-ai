@@ -1,5 +1,13 @@
 # Building Agents
 
+## framword and code samples
+
+Find libraries or frameworks for building agents [here](../coding/README.md). 
+
+* [ReflexionAgent](https://github.com/kargarisaac/reflexion)
+    - Python implementation of the [Reflexion framework](https://arxiv.org/abs/2303.11366)
+    - usage example: https://github.com/kargarisaac/reflexion?tab=readme-ov-file#usage
+
 ## Courses
 1. AI Agents in LangGraph, by Langchain, Tavily, DeepLearning.AI - [[short course](https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/1/introduction)]/[[My notes](../courses/building-agents.md)]
 
