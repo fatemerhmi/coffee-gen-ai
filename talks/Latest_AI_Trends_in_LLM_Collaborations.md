@@ -1,4 +1,6 @@
 # Exploring the Latest AI Trends in LLM Collaborations
+*By [Fatemeh Rahimi](https://www.linkedin.com/in/fatemehrahimi/), Senior NLP Scientist at Pythonic AI*  
+*Presented · Jan 2025 · [Volta](https://www.voltaeffect.com/events)*  
 
 ![Image](../images/talks/Latest_AI_Trends_in_LLM_collaborations/slide1.png)
 
