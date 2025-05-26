@@ -6,6 +6,8 @@
 - [Models](./models.md)
 - [Benchmarks](./benchmarks.md)
 - [Research Tools](./research_tools.md)
+- [Transformers](./transformers.md)
+
 
 ## Reinforcement Learning from Human Feedback
 
@@ -151,3 +153,11 @@ Here are some interesting papers on this topic:
 ## AI CUDA Engineer
 
 * The AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition [Feb, 2025] - [paper](https://pub.sakana.ai/static/paper.pdf)
+
+## models
+
+[DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066) by Deekseek, Jan 2024
+
+[Bite: How Deepseek R1 was trained](https://www.philschmid.de/deepseek-r1) by [Philipp Schmid](https://www.philschmid.de/philipp-schmid) Jan, 2025
+
+[The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1?utm_campaign=post&utm_medium=web) by Jay Alammar Jan, 2025
