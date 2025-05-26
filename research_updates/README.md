@@ -86,8 +86,8 @@ strong LLMs , Kenton et al. [Jul 2024] - [paper](https://arxiv.org/pdf/2407.0462
   - debate consistently outperforms consultancy across all tasks, previously only shown on a single extractive QA task in [Khan et al.](https://arxiv.org/pdf/2402.06782) (2024).
   - Comparing debate to direct question answering baselines, the results depend on the type of task. In extractive QA tasks with information asymmetry, debate outperforms QA without article as in the single task of Khan et al. (2024), but not QA with article. For other tasks, when the judge is weaker than the debaters (but not too weak), we find either small or no advantage to debate over QA without article.
   - Changes to the setup (number of turns, best-of-N sampling, few-shot, chain-of-thought) seem to have little effect on results.
-  - In open consultancy, the judge is equally convinced by the consultant, whether or not the consultant has chosen to argue for the correct answer. Thus, using weak judges to provide a training signal via consultancy runs the risk of amplifying the consultant’s incorrect behavior.
-  - In open debate, in contrast, the judge follows the debater’s choice less frequently than in open
+  - In open consultancy, the judge is equally convinced by the consultant, whether or not the consultant has chosen to argue for the correct answer. Thus, using weak judges to provide a training signal via consultancy runs the risk of amplifying the consultant's incorrect behavior.
+  - In open debate, in contrast, the judge follows the debater's choice less frequently than in open
 consultancy. When the debater chooses correctly, the judge does a bit worse than in open
 consultancy. But when the debater chooses incorrectly, the judge does a lot better at discerning
 this. Thus, the training signal provided by the weak judge in open debate is less likely to amplify
@@ -127,7 +127,7 @@ Here are some interesting papers on this topic:
 
 * LLM Evaluators Recognize and Favor Their Own Generations, Panickssery et al. [Apr 2024] - [paper](https://arxiv.org/pdf/2404.13076)
   - biases are introduced due to the same LLM acting as both the evaluator and the evaluatee
-  - self-preference, where an LLM evaluator scores its own outputs higher than others’ while human annotators consider them of equal quality
+  - self-preference, where an LLM evaluator scores its own outputs higher than others' while human annotators consider them of equal quality
   - **findings**:
     - LLMs such as GPT-4 and Llama 2 have non-trivial accuracy at distinguishing themselves from other LLMs and humans
     - They discover a linear correlation between self-recognition capability and the strength of self-preference bias; using controlled experiments, they show that the causal explanation resists straightforward confounders
@@ -161,3 +161,39 @@ Here are some interesting papers on this topic:
 [Bite: How Deepseek R1 was trained](https://www.philschmid.de/deepseek-r1) by [Philipp Schmid](https://www.philschmid.de/philipp-schmid) Jan, 2025
 
 [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1?utm_campaign=post&utm_medium=web) by Jay Alammar Jan, 2025
+
+## Recent Trends in Retrieval Augmented Generation (RAG) (2024)
+
+Based on "The Rise and Evolution of RAG in 2024 A Year in Review" by RAGFlow (Dec 2024) and other observations:
+
+*   **Core Themes & Debates**:
+    *   RAG's role as an indispensable component for LLMs in enterprise scenarios has solidified.
+    *   Focus on overcoming challenges like ineffective Q&A for unstructured multimodal documents, low recall with pure vector databases, and semantic gaps in search.
+*   **Key Technological Advancements**:
+    *   **Multimodal Document Parsing**: Tools and techniques for understanding complex documents (PDFs, PPTs) beyond text, incorporating layout and visual elements (e.g., RAGFlow's DeepDoc, MinerU, Docling, generative AI for OCR like Nougat).
+    *   **Hybrid Search**: Shift from pure vector search to hybrid approaches combining vector search with traditional methods like BM25 for better precision and recall. RAGFlow and its database Infinity, along with OpenAI's acquisition of Rockset, highlight this trend.
+    *   **GraphRAG**: Utilizing knowledge graphs to bridge semantic gaps and enable more complex reasoning. Microsoft's open-source GraphRAG is a key example, with other variations like KAG, Nebula GraphRAG, Fast/Light/LazyGraphRAG, HippoRAG, and Triplex emerging.
+    *   **Advanced Ranking Models**: Development of more sophisticated reranking models, including LLM-based rerankers (e.g., gte-Qwen2-7B) and tensor-based late interaction models (e.g., ColBERT, RAGatouille, Jina-colbert-v2).
+    *   **Improved Chunking Strategies**: Moving beyond naive text chunking to methods that preserve context or add semantic meaning (e.g., Late Chunking, Contextual Chunking, Meta-Chunking).
+    *   **Agentic RAG**: Integrating agentic capabilities into RAG systems for more adaptive and complex problem-solving (e.g., Self RAG, Adaptive RAG, LangGraph, RARE).
+    *   **Multimodal RAG**: Systems that can retrieve and reason over combined text and visual information, leveraging Vision-Language Models (VLMs) like PaliGemma and techniques like ColPali.
+*   **Noteworthy Tools/Platforms**: RAGFlow, GraphRAG (Microsoft), LangGraph, Infinity DB.
+
+## Recent Trends in Large Language Models (LLMs) (late 2024 / early 2025)
+
+Based on "Recent advancements in large language models (LLMs) and their applications" (LinkedIn, Apr 2025 - likely referencing late 2024/early 2025 developments):
+
+*   **Key Capabilities & Enhancements**:
+    *   **Enhanced Multimodal Capabilities**: Seamless processing of diverse inputs (text, images, audio, video) within unified architectures.
+    *   **Sophisticated Reasoning & Tool Use**: Significant improvements in multi-step reasoning, coding, mathematics, and scientific analysis.
+    *   **Expanded Context Windows**: Models supporting much larger context windows (e.g., up to 1 million tokens), allowing for processing of entire documents or large codebases.
+    *   **Refined RAG Integration**: Better integration with external knowledge bases and real-time data for improved accuracy and currency.
+    *   **Agentic Frameworks & Autonomous Operation**: LLMs evolving into autonomous agents capable of planning, task decomposition, and complex workflow execution.
+    *   **Efficiency and Optimization**: A push towards smaller, faster, and more cost-effective models without sacrificing performance.
+    *   **Real-time & Streaming Interaction**: Capabilities to process streaming data in real-time for dynamic applications.
+*   **Prominent Models Showcasing these Trends (availability/versions as of early 2025 in source article)**:
+    *   **OpenAI**: GPT-4.1 family (superior coding, 1M token context, agent-like).
+    *   **Anthropic**: Claude 3.7 Sonnet (hybrid reasoning, "extended thinking mode" for RAG).
+    *   **Google**: Gemini 2.5 Pro & Flash (multimodal, 1M token context, Live API).
+    *   **xAI**: Grok-3 family (real-time data via X platform, image generation).
+    *   **Mistral AI**: Mistral Small 3.1 (open-weight, efficient, multimodal).

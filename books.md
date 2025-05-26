@@ -6,9 +6,8 @@ Foundations of Large Language Models by Tong Xiao and Jingbo Zhu [book](https://
 
 ## paid books
 
-The following list is the suggestion from [Lukas Tencer](https://www.linkedin.com/in/lukastencer/) - [link to blog post](https://www.linkedin.com/posts/lukastencer_ai-machinelearning-llm-activity-7275253370540498944-n60H?utm_source=share&utm_medium=member_desktop)
-
-Here's Lukas's top 5 reading list for anyone looking to truly grasp LLM fundamentals and implementation:
+The following list is the suggestion from [Lukas Tencer](https://www.linkedin.com/in/lukastencer/) - [link to blog post](https://www.linkedin.com/posts/lukastencer_ai-machinelearning-llm-activity-7275253370540498944-n60H?utm_source=share&utm_medium=member_desktop) 
+** this has been updated by myself while going through these books :)
 
 1) "Hands-On Large Language Models" by Jay Alammar & Maarten Grootendorst - Excellent practical guide, Amazing Illustrations and code exmplaes [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
 
@@ -33,6 +32,10 @@ This stack has been invaluable in moving from "using" to "understanding" LLMs. H
 * The Complete Obsolete Guide to Generative AI by David Clinton
 * Generative AI in Action by Amit Bahree
 * The GenAI Handbook by William Brown
+
+## 🤖 AI Agents
+
+* AI Agents in Action by Michael Lanham
 
 ## 🔬 Machine Learning
 
